@@ -3,10 +3,10 @@
     "Codigo": 1,
     "Descripcion": "Estampita",
     "Costo": "¢400",
-    "Precio Venta": "¢1000",
+    "Precio": "¢1000",
     "Existencia": "10",
-    "Inv. Mínimo": "5",
-    "Inv. Máximo": "20"
+    "Inv_Minimo": "5",
+    "Inv_Maximo": "20"
   },
   {
     "Codigo": 2,
@@ -14,8 +14,8 @@
     "Costo": "¢300",
     "Precio": "¢900",
     "Existencia": "30",
-    "Inv. Mínimo": "10",
-    "Inv. Máximo": "50"
+    "Inv_Minimo": "10",
+    "Inv_Maximo": "50"
   },
   {
     "Codigo": 3,
@@ -23,8 +23,8 @@
     "Costo": "¢6000",
     "Precio": "¢12000",
     "Existencia": "5",
-    "Inv. Mínimo": "3",
-    "Inv. Máximo": "8"
+    "Inv_Minimo": "3",
+    "Inv_Maximo": "8"
   },  
   {
     "Codigo": 4,
@@ -32,7 +32,7 @@
     "Costo": "¢2000",
     "Precio": "¢8000",
     "Existencia": "1",
-    "Inv. Mínimo": "2",
-    "Inv. Máximo": "3"
+    "Inv_Minimo": "2",
+    "Inv_Maximo": "3"
     }
 ]
