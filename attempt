@@ -1,0 +1,38 @@
+[
+  {
+    "Codigo": 1,
+    "Descripcion": "Estampita",
+    "Costo": "¢400",
+    "Precio Venta": "¢1000",
+    "Existencia": "10",
+    "Inv. Mínimo": "5",
+    "Inv. Máximo": "20"
+  },
+  {
+    "Codigo": 2,
+    "Descripcion": "Medalla",
+    "Costo": "¢300",
+    "Precio": "¢900",
+    "Existencia": "30",
+    "Inv. Mínimo": "10",
+    "Inv. Máximo": "50"
+  },
+  {
+    "Codigo": 3,
+    "Descripcion": "Biblia",
+    "Costo": "¢6000",
+    "Precio": "¢12000",
+    "Existencia": "5",
+    "Inv. Mínimo": "3",
+    "Inv. Máximo": "8"
+  },  
+  {
+    "Codigo": 4,
+    "Descripcion": "Figura",
+    "Costo": "¢2000",
+    "Precio": "¢8000",
+    "Existencia": "1",
+    "Inv. Mínimo": "2",
+    "Inv. Máximo": "3"
+    }
+]
